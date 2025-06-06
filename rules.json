@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "regexSubstitution": "https://www.yout-ube.com/watch\\1"
+      }
+    },
+    "condition": {
+      "regexFilter": "^https://www\\.youtube\\.com/watch(\\?.*)$",
+      "resourceTypes": ["main_frame"]
+    }
+  }
+]
