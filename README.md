@@ -13,7 +13,7 @@ Esta extensão para Google Chrome detecta quando você acessa um vídeo do YouTu
 
 1. Baixe ou clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/youtube-ad-skipper-extension.git
+   git clone https://github.com/fhecout/youtube-ad-skipper-extension.git
    ```
 2. Abra o Google Chrome e acesse `chrome://extensions/`
 3. Ative o "Modo do desenvolvedor" no canto superior direito
